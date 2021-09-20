@@ -1,1 +1,1 @@
-# An App-Like QEMU with 3D Graphic Acceleration
+# An App-Like Linux VM 3D Graphic Acceleration
