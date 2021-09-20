@@ -24,7 +24,7 @@ Then, in actions select and add `Run AppleScript` and add:
 
 ### Starting the VM
 
-Once again in actions select and add `Run Shell Script`, in **"Shell:"** select **"/bin/zsh"**, then in **"Pass input:"** select **"as arguments"**, and add:
+Once again in actions select and add `Run Shell Script`, in **"Shell:"** select `/bin/zsh`, then in **"Pass input:"** select `as arguments`, and add:
 
 **For shared clipboard and mouse integration:**
 
@@ -68,6 +68,7 @@ Once again in actions select and add `Run Shell Script`, in **"Shell:"** select 
 ```
 
 -smp are the CPU cores you desire, I suggest max of 4 in M1
+
 -m is the amount of RAM you desire, I suggest max half of your RAM
 
 Notice it states in the drive options **"Fedora.app"** this needs to be equal to the name given to the application when doing the next step:
