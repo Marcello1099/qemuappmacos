@@ -8,7 +8,7 @@ This setup allows to move the app to an external drive or be used locally as wel
 
 ### Files needed
 
-From the QEMU guide you will have 3 files ".raw" for storage, "edk2-arm-vars.fd", and "edk2-aarch64-code.fd". Move these three files into a new folder called "main".
+From the QEMU [guide](https://github.com/knazarov/homebrew-qemu-virgl#readme) you will have 3 files ".raw" for storage, "edk2-arm-vars.fd", and "edk2-aarch64-code.fd". Move these three files into a new folder called "main".
 
 ### Enviroment
 
