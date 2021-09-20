@@ -73,7 +73,7 @@ Once again in actions select and add `Run Shell Script`, in **"Shell:"** select 
 
 Notice it states in the drive options **"Fedora.app"** this needs to be equal to the name given to the application when doing the next step:
 
-`File > Save...` and make sure **"File Format:"** is set to **"Application"** 
+`File > Save...` and make sure **"File Format:"** is set to `Application`
 
 ### Storing the VM
 
