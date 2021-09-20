@@ -2,6 +2,8 @@
 
 This guide is mostly focused on the M1 Macs, but it can be adapted for Intel models easily. This is an implementation of an app-like experience through Automator, whereas QEMU is from user knazarov's [GitHub Repo](https://github.com/knazarov/homebrew-qemu-virgl#readme) please follow the steps for QEMU installation and setup.
 
+This setup allows to move the app to an external drive or be used locally as well, it behaves like your average MacOS app in the user end.
+
 ## Installation
 
 ### Files needed
@@ -81,3 +83,4 @@ After saving the application in Automator a new app (Default: Fedora) will be ad
 For changing the icon I suggest the [guide from Apple](https://support.apple.com/guide/mac-help/change-icons-for-files-or-folders-on-mac-mchlp2313/mac).
 
 For Fedora I recommend [this icon](https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg), but you can use whatever you desire.
+
