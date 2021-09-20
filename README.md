@@ -74,7 +74,7 @@ Notice it states in the drive options **"Fedora.app"** this needs to be equal to
 
 ### Storing the VM
 
-After saving the application in Automator a new app (Default: Fedora) will be added to your Applications. Go ahead and navigate to your **"Applications"** folder and find your newly created app. Right click on it and select **"Show Package Contents"**, navigate to `Contents` and move your previously created folder **"main"**.
+After saving the application in Automator a new app (Default: Fedora) will be added to your Applications. Go ahead and navigate to your `Applications` folder and find your newly created app. Right click on it and select **"Show Package Contents"**, navigate to `Contents` and move your previously created folder **"main"**.
 
 ### Icon
 
